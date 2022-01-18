@@ -1,0 +1,17 @@
+1. a) ESCREVER B -> 20
+ESCREVER A,B -> 10 , 5 
+
+b) ESCREVER A,B,C -> 10, 10, 10
+
+c) ESCREVER A,B,C -> 10 , 5 , 15
+
+d) ESCREVER C -> 50
+ESCREVER B, C -> 10 , 50
+ESCREVER A, B, C -> 30 , 10 , 40 
+
+e) ESCREVER A -> 12
+ESCREVER A, B -> 14 , 13 
+
+f) ESCREVER Z -> 1 
+ESCREVER X, Y, Z -> 5, 6, 1
+   
